@@ -5,3 +5,7 @@ int add(int a, int b){
  int sub(int a, int b){
    return a - b;
  }
+
+int ymnoz(int a, int b) {
+    return a * b;
+}
