@@ -1,0 +1,3 @@
+/Users/darasatalova/Desktop/lab_1/build/CMakeFiles/lab_1.dir
+/Users/darasatalova/Desktop/lab_1/build/CMakeFiles/edit_cache.dir
+/Users/darasatalova/Desktop/lab_1/build/CMakeFiles/rebuild_cache.dir
