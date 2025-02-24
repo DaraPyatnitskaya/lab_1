@@ -8,5 +8,6 @@ int main(){
   int b = 20;
   int summ = add(a,b);
   int nesumm = sub(a,b);
-  std::cout << summ << std::endl << nesumm << std::endl;
+  std::cout << "Updated summ: " << summ;
+  std::cout << "Updated nesumm: " << nesumm;
   }
