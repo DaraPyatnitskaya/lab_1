@@ -11,7 +11,7 @@ int main(){
   int nesumm = sub(a,b);
   int mul = ymnoz(a,b);
 
-  std::cout << "Updated summ: " << summ;
+  std::cout << "hello" << summ;
   std::cout << "Updated nesumm: " << nesumm;
   std::cout << "Updated mul: " << mul;
 
